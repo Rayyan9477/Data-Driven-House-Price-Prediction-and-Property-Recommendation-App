@@ -1,4 +1,3 @@
-
 # Data Driven House Price Prediction and Property Recommendation App
 
 - [LinkedIn - Rayyan Ahmed](https://www.linkedin.com/in/rayyan-ahmed9477/)
