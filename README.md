@@ -53,11 +53,14 @@ There are 70 independent variables in the raw data, I am here explaining only th
 
 ## Images 
 
-Inputing Features :
-![image](static\img\Details.png)
 
 Predicted and recommended Output :
-![image](static\img\House.png)
+![image](https://github.com/Rayyan9477/Data-Driven-House-Price-Prediction-and-Property-Recommendation-App/blob/main/static/img/House.png)
+
+
+
+Inputing Features :
+![image](https://github.com/Rayyan9477/Data-Driven-House-Price-Prediction-and-Property-Recommendation-App/blob/main/static/img/Details.png)
 
 
 
